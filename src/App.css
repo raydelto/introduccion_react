@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.texto{
+  font-size: 18px;
+  color: blue;
+  border-radius: 15px;
+  padding: 7px;
+  margin-bottom: 17px;
+}
+
+.boton{
+  font-size: 18px;
+  padding: 17px;
+  border-radius: 15px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
